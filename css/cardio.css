@@ -553,6 +553,7 @@ section {
 	background-size: cover;
 	-webkit-transition: background-image 0.6s linear 0.3s;
 	transition: background-image 0.6s linear 0.3s;
+	padding-top: 150px;
 }
 
 .owl-resume img {
