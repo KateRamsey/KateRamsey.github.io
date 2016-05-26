@@ -1139,14 +1139,6 @@ background:url('img/KintrestCode.png')
 	-moz-border-radius:20px;
 }
 
-#resumetitle, #resumesubtitle{
-	    color: black;
-    text-shadow:
-    -1px -1px 0 gray,
-    1px -1px 0 gray,
-    -1px 1px 0 gray,
-    1px 1px 0 gray;  
-}
 
 .fa{
 	margin-right: 30px;
